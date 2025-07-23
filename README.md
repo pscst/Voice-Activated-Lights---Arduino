@@ -82,6 +82,8 @@ The Arduino will process these commands and activate the corresponding lighting 
 ![Picture1](https://github.com/user-attachments/assets/18a48dee-810f-4bc1-8c09-6d7efa8af125)
 ![Picture2](https://github.com/user-attachments/assets/ed3d9fd7-b574-4bd5-8a86-0e22929d10b2)
 ![Picture3](https://github.com/user-attachments/assets/c3a992b1-5217-4a67-8ca3-c14d05fd83b2)
+
+SAMPLE RESULT:
 ![Picture4](https://github.com/user-attachments/assets/1c57fdc1-1024-467b-87e8-c1f69f780b71)
 
 
